@@ -6,7 +6,6 @@ apply plugin: 'maven-publish'
 android {
 
     compileSdkVersion rootProject.compileSdkVersion
-    buildToolsVersion rootProject.buildToolsVersion
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion rootProject.compileSdkVersion
