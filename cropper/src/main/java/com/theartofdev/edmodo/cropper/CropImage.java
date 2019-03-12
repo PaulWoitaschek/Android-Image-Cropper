@@ -809,7 +809,7 @@ public final class CropImage {
     }
 
     /**
-     * the quility (if applicable) to use when writting the image (0 - 100).<br>
+     * the quality (if applicable) to use when writting the image (0 - 100).<br>
      * <i>Default: 90</i>
      */
     public ActivityBuilder setOutputCompressQuality(int outputCompressQuality) {
